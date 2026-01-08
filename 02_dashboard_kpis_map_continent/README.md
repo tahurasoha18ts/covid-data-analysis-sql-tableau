@@ -14,3 +14,7 @@ This folder contains SQL queries used to build **Dashboard 1**, focusing on high
 
 ## Visualization Tool
 - Tableau Public
+---
+
+## Tableau Dashboard
+- https://public.tableau.com/app/profile/tahura.soha/viz/CovidDashboard_17677711769760/Dashboard1
